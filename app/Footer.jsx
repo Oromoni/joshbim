@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div className="flex flex-col justify-center items-start "> <div className="flex items-center space-x-3">
             <CiMail  className="text-white" size={15} />
-            <p className="text-white font-semibold">emmanuel@joshbim.com</p>
+            <p className="text-white font-semibold">Emmanuel@joshbim.com</p>
 </div>
  <div className="flex items-center space-x-3">
             <FaPhone className="text-white" size={15} />
@@ -33,7 +33,7 @@ const Footer = () => {
         
           <div className="text-white   flex gap-3 text-center ">
             <IoLocationOutline  size={20}  />
-            <p className="text-gray-400">516, bridgeland drive north Winnipeg,<br />  Canada</p> 
+            <p className="text-gray-400">516, Bridgeland Drive North Winnipeg,<br />  Canada</p> 
           </div>
          
           <div className="text-white text-center flex gap-3 ">
